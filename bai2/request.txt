@@ -1,0 +1,16 @@
+GET /admin HTTP/1.1
+Host: 0a1d00b104295136c1c37af0009d0063.web-security-academy.net
+Cookie: session=eyJraWQiOiJhNDk1NGExYy05YmI1LTRmZDktYjQyMy0yMmQ2NjQxZTk5MDAiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJwb3J0c3dpZ2dlciIsInN1YiI6IndpZW5lciIsImV4cCI6MTY2NDE4NTIzNH0.IjD2FkcnVRx7J-YpJLA1Gw_rd5F1wpHiXrdWIjMnbXzETPs10CT-fzYMRx4r04AiQz1e_PDIvFauJYkNXu41mX1T6jftkVAp5YycBW21gsBFi-uAWpW6RLqXBdSacp4_rPDzLRoowK_rgKgmdpPk7hGNyHfDYHGO-eeQWbzPD-fyOb4f66PUoNlFb7imLO4S9GacLCCg12gE3W19AtupbPIMn0kk5qjyMriqKgPz0-0CIVNOZmBoH2eF7k8LmNMVTcyYEdNAUKaQgG0HhntvTtbPhjoBh_VnosAPIuvtAKhudyQy9viFy2tHctj1xk9o189CkjqKRL1UMm4hnJB2AQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Te: trailers
+Connection: close
+
+username=trong&password=trong
