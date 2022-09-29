@@ -1,16 +1,25 @@
-GET /admin HTTP/1.1
-Host: 0a1d00b104295136c1c37af0009d0063.web-security-academy.net
-Cookie: session=eyJraWQiOiJhNDk1NGExYy05YmI1LTRmZDktYjQyMy0yMmQ2NjQxZTk5MDAiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJwb3J0c3dpZ2dlciIsInN1YiI6IndpZW5lciIsImV4cCI6MTY2NDE4NTIzNH0.IjD2FkcnVRx7J-YpJLA1Gw_rd5F1wpHiXrdWIjMnbXzETPs10CT-fzYMRx4r04AiQz1e_PDIvFauJYkNXu41mX1T6jftkVAp5YycBW21gsBFi-uAWpW6RLqXBdSacp4_rPDzLRoowK_rgKgmdpPk7hGNyHfDYHGO-eeQWbzPD-fyOb4f66PUoNlFb7imLO4S9GacLCCg12gE3W19AtupbPIMn0kk5qjyMriqKgPz0-0CIVNOZmBoH2eF7k8LmNMVTcyYEdNAUKaQgG0HhntvTtbPhjoBh_VnosAPIuvtAKhudyQy9viFy2tHctj1xk9o189CkjqKRL1UMm4hnJB2AQ
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
+GET /gen_204?s=webhp&t=cap&atyp=csi&ei=RGwxY9WBLcWEr7wPyYy0oA8&rt=wsrt.2357,cbt.106&bl=x9VE HTTP/2
+Host: www.google.com
+Cookie: 1P_JAR=2022-09-26-09; AEC=AakniGPB8tq-E05P2NYD9O9bdlMLB2AfWt0A4I4RxzyJYcZ02sa0rSx1D9Y; NID=511=h5UnvT3IzcYd4wdiknZoBqB3p9EmEPefZ7Nkz9wfPrS1yMAWdbfDmvjK6iyL1jmc5_RMHn9rhK1TQDrU1gqIjKW6i9Q-nRTs9c4m0qZwMBsKCvBeabp94DKHIaJdyy5u1ZdSVKmaDBVNPlBlPc4vvKk0qBOu7dsrSJcnzr55qmM
+Content-Length: 0
+Sec-Ch-Ua: "Chromium";v="105", "Not)A;Brand";v="8"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Model: 
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.102 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version-List: "Chromium";v="105.0.5195.102", "Not)A;Brand";v="8.0.0.0"
+Sec-Ch-Ua-Platform-Version: "10.0.0"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Wow64: ?0
+Sec-Ch-Ua-Full-Version: "105.0.5195.102"
+Sec-Ch-Ua-Platform: "Windows"
+Accept: /
+Origin: https://www.google.com
+X-Client-Data: CIqDywE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
 Accept-Encoding: gzip, deflate
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-Te: trailers
-Connection: close
-
-username=trong&password=trong
+Accept-Language: en-US,en;q=0.9
